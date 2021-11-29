@@ -1,0 +1,1 @@
+This program will some day be a web API for a hypothetical budget manager
